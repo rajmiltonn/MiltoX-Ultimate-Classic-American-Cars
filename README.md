@@ -28,7 +28,7 @@ Welcome to **MiltoX.Com**, your ultimate destination for car rentals in India. W
 
 ## Contact
 
-For more information, visit [MiltoX.com](https://www.miltox.com).
+For more information, visit [MiltoX.com]([https://www.miltox.com](https://rajmiltonn.github.io/MiltoX---Ultimate-Classic-American-Cars/)).
 
 © 2024 Rk Milton. All rights reserved.
 
