@@ -35,7 +35,3 @@ For more information, visit [MiltoX.com](https://rajmiltonn.github.io/MiltoX---U
 ## Contributing
 
 If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MiltoX License.
