@@ -20,7 +20,7 @@ Welcome to **MiltoX.Com**, your ultimate destination for car rentals in India. W
 ## Customer Experience
 
 - **Competitive Pricing**: Enjoy easier rent on your budget with flexible payment plans.
-- **Extended Auto Warranties**: Benefit from the best extended auto warranties and roadside assistance 24/7.
+- **Extended Auto Warranties**: Benefit from the best extended auto warranties and roadside assistance 24/7..
 - **Your Choice of Mechanic**: Choose the mechanic that works best for you.
 
 ## Additional Information
